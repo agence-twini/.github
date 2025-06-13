@@ -37,6 +37,7 @@ We polish the edges. We commit with messages like: `fix: added ✨ because why n
 frontend:
   - Nuxt
   - Vue
+  - Astro
   - Tailwind CSS
   - TypeScript
   - Stimulus
